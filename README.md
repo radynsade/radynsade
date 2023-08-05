@@ -13,6 +13,5 @@
 
 ### Back-end:
 - 🧱 Fiber, Gin, Phalcon 4/5, Yii 1
-- 📨 RabbitMQ
 - 🗃 PostgreSQL, MySQL, Redis
 - 🔤 PHP, Go, SQL
