@@ -6,7 +6,7 @@
 - 💻 Git, Docker, Linux (Debian based)
 
 ### Front-end:
-- 🧱 SvelteKit, React
+- 🧱 Svelte, React
 - 🧑‍🏭️ Webpack, Vite, Rollup
 - 🔤 TypeScript, Javascript, NodeJS
 - 📄 HTML, CSS (SASS/SCSS)
